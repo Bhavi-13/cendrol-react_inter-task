@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cendrol-react_inter-task/static/css/main.1d747879.css",
+    "main.js": "/cendrol-react_inter-task/static/js/main.469afe9a.js",
+    "static/js/787.9b1cf291.chunk.js": "/cendrol-react_inter-task/static/js/787.9b1cf291.chunk.js",
+    "index.html": "/cendrol-react_inter-task/index.html",
+    "main.1d747879.css.map": "/cendrol-react_inter-task/static/css/main.1d747879.css.map",
+    "main.469afe9a.js.map": "/cendrol-react_inter-task/static/js/main.469afe9a.js.map",
+    "787.9b1cf291.chunk.js.map": "/cendrol-react_inter-task/static/js/787.9b1cf291.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d747879.css",
+    "static/js/main.469afe9a.js"
+  ]
+}

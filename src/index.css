@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +10,16 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+body {
+  background: linear-gradient(to right,rgb(8, 127, 231),rgb(4, 90, 156),rgb(3, 3, 65));
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+  width: 100%;
+  height:auto;
+  font-family: "poppins", sans-serif;
 }
+
+
+

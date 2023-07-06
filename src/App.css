@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,10 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+.custom-modal .modal-dialog {
+  width: 80%;
+  background: linear-gradient(to right, #4a4948, #1d1c1b);
 }
